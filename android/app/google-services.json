@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662710155134",
+    "project_id": "apppromotor-37c5d",
+    "storage_bucket": "apppromotor-37c5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662710155134:android:a069ae51e5db7acda9252f",
+        "android_client_info": {
+          "package_name": "com.masui.apppromotor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSY2X9SCwv0L9qAbuPirGDqN5nhcGibU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
